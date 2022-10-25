@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gopi1216/react-funds/static/css/main.073c9b0a.css",
+    "main.js": "/gopi1216/react-funds/static/js/main.bad8e686.js",
+    "static/js/787.af59cbde.chunk.js": "/gopi1216/react-funds/static/js/787.af59cbde.chunk.js",
+    "static/media/logo.svg": "/gopi1216/react-funds/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gopi1216/react-funds/index.html",
+    "main.073c9b0a.css.map": "/gopi1216/react-funds/static/css/main.073c9b0a.css.map",
+    "main.bad8e686.js.map": "/gopi1216/react-funds/static/js/main.bad8e686.js.map",
+    "787.af59cbde.chunk.js.map": "/gopi1216/react-funds/static/js/787.af59cbde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bad8e686.js"
+  ]
+}
