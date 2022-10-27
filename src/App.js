@@ -1,9 +1,10 @@
+import { Header } from './components';
 import './App.css';
 
 function App() {
   return (
-    <main className="App">
-      <h1>Welcome React</h1>
+    <main className="container mx-auto">
+      <Header title="Expense Tracker" />
     </main>
   );
 }
