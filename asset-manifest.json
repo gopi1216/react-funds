@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-funds/static/css/main.a113f79e.css",
-    "main.js": "/react-funds/static/js/main.861a671e.js",
+    "main.css": "/react-funds/static/css/main.5904aa4a.css",
+    "main.js": "/react-funds/static/js/main.0dccc930.js",
     "index.html": "/react-funds/index.html",
-    "main.a113f79e.css.map": "/react-funds/static/css/main.a113f79e.css.map",
-    "main.861a671e.js.map": "/react-funds/static/js/main.861a671e.js.map"
+    "main.5904aa4a.css.map": "/react-funds/static/css/main.5904aa4a.css.map",
+    "main.0dccc930.js.map": "/react-funds/static/js/main.0dccc930.js.map"
   },
   "entrypoints": [
-    "static/css/main.a113f79e.css",
-    "static/js/main.861a671e.js"
+    "static/css/main.5904aa4a.css",
+    "static/js/main.0dccc930.js"
   ]
 }
