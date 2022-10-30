@@ -10,4 +10,4 @@ body{margin: 0;font-family: -apple-system,BlinkMacSystemFont,Roboto,Oxygen,Ubunt
 .mx-auto{margin: 0 auto}
 .container{max-width: 71.25rem}
 main{box-shadow: 1px 0 1rem var(--shadow),-1px 0 1rem var(--shadow);min-height: 100vh;background-color: var(--white)}
-header{padding: 1.25rem 1.5rem;background-color: var(--primary);color: #fff}
+header{padding: 1.25rem 1.5rem;background-color: var(--primary);color: var(--white);}
