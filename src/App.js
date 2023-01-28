@@ -1,11 +1,9 @@
 import { Header } from './components';
-import './App.css';
+import './sass/app.scss';
 
 function App() {
   return (
-    <main className="container mx-auto">
-      <Header title="Expense Tracker" />
-    </main>
+    <Header title="Expense Tracker Sample" />
   );
 }
 
