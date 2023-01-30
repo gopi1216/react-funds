@@ -1,0 +1,8 @@
+@use '../utils' as *;
+
+aside{
+  box-shadow: 0 2px ($spacer * 1px) rgba(color('black'), $spacer * 1%);
+  filter: brightness(1);
+  display: flex;
+  flex-flow: column nowrap;
+}

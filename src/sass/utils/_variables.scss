@@ -1,0 +1,16 @@
+$bg            : #f1f6f9 !default;
+$primary       : #00509d !default;
+$primary-text  : #252626 !default;
+$secondary-text: #777 !default;
+$black         : #000 !default;
+$white         : #fff !default;
+$spacer        : 16 !default;
+
+$colors: (
+  'primary'       : $primary,
+  'bg'            : $bg,
+  'primary-text'  : $primary-text,
+  'secondary-text': $secondary-text,
+  'black'         : $black,
+  'white'         : $white
+) !default;

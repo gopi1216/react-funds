@@ -1,6 +1,8 @@
+@use '../utils' as *;
+
 *, ::before, ::after{ margin: 0; padding: 0; box-sizing: border-box; }
 html{ line-height: 1.5; }
-body{ height: 100vh; }
+body{ height: 100vh; background-color: color('white'); }
 i, span, a, img, strong, input{ display: inline-block; }
 hr{ box-sizing: content-box; overflow: visible; }
 a{ background-color: transparent; }

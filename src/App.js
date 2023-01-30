@@ -1,9 +1,12 @@
-import { Header } from './components';
+import { Sidemenu, Article } from './components';
 import './sass/app.scss';
 
 function App() {
   return (
-    <Header title="Expense Tracker Sample" />
+    <>
+      <Sidemenu />
+      <Article />
+    </>
   );
 }
 
