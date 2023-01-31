@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/react-funds/static/css/main.4c84d7e9.css",
+    "main.css": "/react-funds/static/css/main.dd365aa3.css",
     "main.js": "/react-funds/static/js/main.e812320c.js",
+    "static/media/Raleway-Bold.woff": "/react-funds/static/media/Raleway-Bold.669ff3b37217225a0735.woff",
+    "static/media/Raleway-SemiBold.woff": "/react-funds/static/media/Raleway-SemiBold.b4f6390736c5c84333f6.woff",
+    "static/media/Raleway-Regular.woff": "/react-funds/static/media/Raleway-Regular.a582669062b72fd23826.woff",
+    "static/media/Raleway-Bold.woff2": "/react-funds/static/media/Raleway-Bold.f45100b58922b985f604.woff2",
+    "static/media/Raleway-SemiBold.woff2": "/react-funds/static/media/Raleway-SemiBold.2a8d2efb19b3f056a7a5.woff2",
+    "static/media/Raleway-Regular.woff2": "/react-funds/static/media/Raleway-Regular.8ef2f50ea57d9d13e2f7.woff2",
     "index.html": "/react-funds/index.html",
-    "main.4c84d7e9.css.map": "/react-funds/static/css/main.4c84d7e9.css.map",
+    "main.dd365aa3.css.map": "/react-funds/static/css/main.dd365aa3.css.map",
     "main.e812320c.js.map": "/react-funds/static/js/main.e812320c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c84d7e9.css",
+    "static/css/main.dd365aa3.css",
     "static/js/main.e812320c.js"
   ]
 }
