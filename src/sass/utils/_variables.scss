@@ -14,3 +14,9 @@ $colors: (
   'black'         : $black,
   'white'         : $white
 ) !default;
+
+$fonts: (
+  'r': regular,
+  'm': medium,
+  'b': bold
+) !default;

@@ -1,0 +1,17 @@
+$fonts-path: '../fonts';
+
+@font-face {
+  font-family: regular;
+  src: url("#{$fonts-path}/Raleway-Regular.woff") format(woff);
+  src: url("#{$fonts-path}/Raleway-Regular.woff2") format(woff2);
+}
+@font-face {
+  font-family: medium;
+  src: url("#{$fonts-path}/Raleway-SemiBold.woff") format(woff);
+  src: url("#{$fonts-path}/Raleway-SemiBold.woff2") format(woff2);
+}
+@font-face {
+  font-family: bold;
+  src: url("#{$fonts-path}/Raleway-Bold.woff") format(woff);
+  src: url("#{$fonts-path}/Raleway-Bold.woff2") format(woff2);
+}

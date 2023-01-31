@@ -2,13 +2,17 @@
 
 *, ::before, ::after{ margin: 0; padding: 0; box-sizing: border-box; }
 html{ line-height: 1.5; }
-body{ height: 100vh; background-color: color('white'); }
+body{ height: 100vh; background-color: color('white'); font-family: font('r'), monospace; font-weight: 400; }
 i, span, a, img, strong, input{ display: inline-block; }
 hr{ box-sizing: content-box; overflow: visible; }
 a{ background-color: transparent; }
+::-webkit-scrollbar{width: .375rem;}
+::-webkit-scrollbar-track{background-color: color('bg');}
+::-webkit-scrollbar-thumb{background-color: color('secondary-text');}
+h1, h2, h3, h4, h5, h6{ font-family: font('b'); }
 
 /*! Text Formats ================ */
-strong{font-weight: 600;}
+strong{font-family: font('m');}
 small{ font-size: 80%; }
 sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
 sub { bottom: -0.25em; }
