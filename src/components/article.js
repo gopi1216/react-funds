@@ -1,4 +1,4 @@
-const Article = () => {
+export const Article = () => {
   return(
     <article>
       <h2>Expense tracker</h2>
@@ -6,5 +6,3 @@ const Article = () => {
     </article>
   )
 }
-
-export default Article;

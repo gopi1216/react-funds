@@ -1,7 +1,7 @@
 import { Sidemenu, Article } from './components';
 import './sass/app.scss';
 
-function App() {
+export default function App() {
   return (
     <>
       <Sidemenu />
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+// export default App;

@@ -1,4 +1,4 @@
-export {default as Header} from './Header/Header';
-export {default as Sidemenu} from './Sidemenu/Sidemenu';
-export {default as Article} from './Article/Article';
-export {default as Navbar} from './Navbar/Navbar';
+export {Header} from './header';
+export {Sidemenu} from './sidemenu';
+export {Article} from './article';
+export {Navbar} from './navbar';
