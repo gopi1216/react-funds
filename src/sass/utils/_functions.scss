@@ -7,3 +7,7 @@
 @function font($key) {
   @return map-get($fonts, $key);
 }
+
+@function units($key){
+  @return map-get($spacers, $key);
+}

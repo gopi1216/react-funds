@@ -2,6 +2,8 @@
 
 header{
   background-color: color('primary');
-  height: 4.5rem;
   color: color('white');
+  line-height: units(8);
+  padding-block: units(5);
+  @include t-align(center)
 }

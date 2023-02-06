@@ -1,0 +1,6 @@
+@mixin p-block($value) {
+  padding-block: $value;
+}
+@mixin t-align($value){
+  text-align: $value;
+}

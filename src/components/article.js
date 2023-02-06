@@ -1,8 +1,8 @@
+import {ExpenseTracker} from '../pages';
 export const Article = () => {
   return(
     <article>
-      <h2>Expense tracker</h2>
-      <p>Article comes here</p>
+      <ExpenseTracker />
     </article>
   )
 }

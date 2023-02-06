@@ -4,7 +4,7 @@ $primary-text  : #252626 !default;
 $secondary-text: #777 !default;
 $black         : #000 !default;
 $white         : #fff !default;
-$spacer        : 16 !default;
+$spacer        : 1rem !default;
 
 $colors: (
   'primary'       : $primary,
@@ -20,3 +20,32 @@ $fonts: (
   'm': medium,
   'b': bold
 ) !default;
+
+$spacers: (
+  0 : 0,
+  1 : ($spacer * .25),
+  2 : ($spacer * .5),
+  3 : ($spacer * .75),
+  4 : ($spacer * 1),
+  5 : ($spacer * 1.25),
+  6 : ($spacer * 1.5),
+  7 : ($spacer * 1.75),
+  8 : ($spacer * 2),
+  9 : ($spacer * 2.25),
+  10: ($spacer * 2.5),
+  11: ($spacer * 2.75),
+  12: ($spacer * 3),
+  a : auto
+) !default;
+
+$sizes: (
+  25 : 25%,
+  50 : 50%,
+  75 : 75%,
+  100: 100%
+) !default;
+
+$line-height: 1.5 !default;
+$font-weight: 400 !default;
+$border-radius: .25rem !default;
+$border-radius: .25rem !default;
