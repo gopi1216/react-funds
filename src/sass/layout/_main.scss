@@ -4,5 +4,5 @@ main{
   height: 100%;
   display: grid;
   grid-template-columns: minmax($spacer * 16, ($spacer + 20) ) minmax($spacer * 48, 1fr);
-  overflow: hidden;
+  overflow: auto;
 }

@@ -1,0 +1,11 @@
+@use '../utils' as *;
+
+.component-title{
+  background-color: color('white');
+  color: color('primary');
+  font-size: units(6);
+  line-height: units(8);
+  padding: units(5) units(8);
+  @include t-align(center);
+  box-shadow: 0 2px $spacer rgba($color: color('black'), $alpha: .16);
+}

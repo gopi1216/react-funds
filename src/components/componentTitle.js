@@ -1,5 +1,5 @@
 export const ComponentTitle = (props) => {
   return(
-    <h2>{props.title}</h2>
+    <h2 className='component-title'>{props.title}</h2>
   )
 }

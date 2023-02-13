@@ -1,9 +1,13 @@
 @use '../utils' as *;
 
-header{
+.header{
   background-color: color('primary');
   color: color('white');
   line-height: units(8);
   padding-block: units(5);
-  @include t-align(center)
+  @include t-align(center);
+
+  &__title{
+    font-size: units(6);
+  }
 }

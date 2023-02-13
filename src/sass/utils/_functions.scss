@@ -4,10 +4,10 @@
   @return map-get($colors, $key);
 }
 
-@function font($key) {
-  @return map-get($fonts, $key);
+@function font($variant) {
+  @return map-get($fonts, $variant);
 }
 
-@function units($key){
-  @return map-get($spacers, $key);
+@function units($number){
+  @return map-get($spacers, $number);
 }

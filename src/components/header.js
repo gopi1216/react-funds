@@ -1,7 +1,7 @@
 export const Header = (props) => {
   return(
-    <header>
-      <h1>{props.title}</h1>
+    <header className='header'>
+      <h1 className='header__title'>{props.title}</h1>
     </header>
   );
 }

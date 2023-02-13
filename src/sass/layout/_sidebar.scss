@@ -1,8 +1,11 @@
 @use '../utils' as *;
 
 aside{
-  // box-shadow: 0 2px ($spacer) rgba(color('black'), $spacer);
-  filter: brightness(1);
-  display: flex;
-  flex-flow: column nowrap;
+  display: grid;
+  grid-template-rows: auto 1fr;
+
+  nav{
+    filter: brightness(0);
+    box-shadow: 2px 0 $spacer rgba($color: color('black'), $alpha: .16);
+  }
 }

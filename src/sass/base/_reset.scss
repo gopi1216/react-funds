@@ -6,10 +6,10 @@ body{ height: 100vh; background-color: color('white'); font-family: font('r'), m
 i, span, a, img, strong, input{ display: inline-block; }
 hr{ box-sizing: content-box; overflow: visible; }
 a{ background-color: transparent; }
-::-webkit-scrollbar{width: $spacer * .375;}
+::-webkit-scrollbar{width: $spacer * .375; height: $spacer * .375;}
 ::-webkit-scrollbar-track{background-color: color('bg');}
-::-webkit-scrollbar-thumb{background-color: color('secondary-text');}
-h1, h2, h3, h4, h5, h6{ font-family: font('b'); }
+::-webkit-scrollbar-thumb{background-color: lighten(color('secondary-text'), $amount: 12) ;}
+h1, h2, h3, h4, h5, h6{ font-family: font('b'); font-weight: 400; }
 
 /*! Text Formats ================ */
 strong{font-family: font('m');}

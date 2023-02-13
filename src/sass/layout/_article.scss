@@ -1,5 +1,10 @@
 @use '../utils' as *;
 
 article{
-  background-color: $bg;
+  background-color: color('bg');
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+.container{
+  padding: units(6) units(10) 0;
 }
